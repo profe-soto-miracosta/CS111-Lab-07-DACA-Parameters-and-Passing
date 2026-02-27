@@ -13,7 +13,7 @@ _Note:_ There are additional files in this lab.  **Only write code in the [Main.
 
 ## Specifications
 
-###Part 1
+### Part 1
 
 1. Write the static method `formatCard`
 
