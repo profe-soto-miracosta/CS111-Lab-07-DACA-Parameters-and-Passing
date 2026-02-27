@@ -1,16 +1,19 @@
  # Lab 07 - DACA + Parameters and Passing
 
-_Learning Objectives: Demonstrate an understanding of how to create static methods. Demonstrate an understanding of how to use static methods with parameters and return types._
+## Learning Objectives
+- Demonstrate an understanding of how to create static methods
+- Demonstrate an understanding of how to use static methods with parameters and return types.
 
-**Lab Prompt**
-
+## Program Description
 In previous labs you worked with the Employment Authorization Card to create appropriate variables and format output. Now you get to significantly improve your program by creating static methods and variables.
 
 Before you start writing your code for a method, take a moment to think about this: without clear and concise documentation, we have only the java code itself. Since we want both programmers and colleagues who do not program to be able to use our software, we need to _document our code_. This means including special comments that describe what the program and methods do. Each method you write should have a description and other useful information on how to use it just above the method header.
 
 _Note:_ There are additional files in this lab.  **Only write code in the [Main.java](./Main.java) file.** You can ignore [UtilityBelt.java](./UtilityBelt.java) until you reach Part 2
 
-## Lab Instructions: Part 1 ##
+## Specifications
+
+###Part 1
 
 1. Write the static method `formatCard`
 
@@ -45,7 +48,7 @@ _Note:_ There are additional files in this lab.  **Only write code in the [Main.
     
     The tests provided are different than in prior labs and the error messages are more difficult to understand.  If you need help interpretting the console messages, raise your hand or call over an instructor/TA.
 
-## Lab Instructions: Part 2 ##
+### Part 2
 
 Now it really gets interesting!  A class called [`UtilityBelt`](./UtilityBelt.java) is provided to you for getting console input. This will really test your ability to call methods! The code inside each method is far beyond what we've covered in class, we're actually going to build it in the second to last topic of the semester!
 
@@ -59,6 +62,8 @@ For each variable in your `main` method, invoke the appropriate method from `Uti
 ```
 
 ### UML Class Diagram
+A UML (Unified Modeling Language) class diagram is a diagram that provides a graphical representation of the classes, attributes, methods, and the relationships between them in an object-oriented system. They serve as blueprints for software development, helping to visualize, design, and document the structure of a system.
+
 | UtilityBelt |
 |-------------|
 | - private static Scanner keyboard |
