@@ -5,7 +5,7 @@
 * @author Nery Chapleton-Lamas <nery@miracosta.edu>
 * @author Gabriel Siguenza <gebsiguenza@gmail.com>
 * @author Catherine Walker <cwalker@miracosta.edu>
-*
+* @author Your Name Here
 * @version 2.0
 **/
 
